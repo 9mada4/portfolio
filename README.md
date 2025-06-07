@@ -31,15 +31,11 @@ Technologies: Google Apps Script (GAS)<br>
 Code: Private<br>
 Overview:<br>
 複数サイト（アソビュー、じゃらん等）の予約メールの内容を自動解析し、Googleスプレッドシートへ自動転記するシステムを開発。手作業での転記工数を削減し、予約管理の効率化に貢献。
-3. Excel検索ツール<br>
+2. Excel検索ツール<br>
 Technologies: HTML/CSS<br>
 Code:　[GitHub Repository](https://github.com/9mada4/SheetScan-web-app)<br>
 Overview:<br>
 Excelを読み込んで文字列検索できるツールを作成
-4. Androidモバイルアプリ（個人開発）
-Technologies: Android Studio, Java<br>
-Code: Private (レポジトリ未作成)<br>
-Overview: 壁反射ゲームや株価取得などの簡易アプリを作成
 
 ## Contact
 - メールアドレス：[8125508@ed.tus.ac.jp](mailto:8125508@ed.tus.ac.jp)
