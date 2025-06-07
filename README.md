@@ -14,7 +14,7 @@ Kumamoto Seita
 - 修士　2025 - 現在：東京理科大学　先進工学研究科　電子システム工学専攻
 
 ## Skill-set
-- 言語：Python, C/C+, Java, HTML/CSS, JavaScript, VBA
+- 言語：Python, C, C++, Java, HTML/CSS, JavaScript, VBA
 - フレームワーク・ライブラリ：scikit-learn, XGBoost, LightGBM, MeCab, Keras, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn
 - その他ツール：Git, Google Colab, Google Apps Script, Android Studio, AWS, SwitchBot API, Yahoo! API
 - データベース：MySQL
