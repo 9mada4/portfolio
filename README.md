@@ -16,7 +16,7 @@ Kumamoto Seita
 ## Skill-set
 - 言語：Python, C/C+, Java, HTML/CSS, JavaScript
 - フレームワーク・ライブラリ：scikit-learn, XGBoost, LightGBM, MeCab, Keras, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn
-- その他ツール：Git, Google Apps Script, Android Studio
+- その他ツール：Git, Google Colab, Google Apps Script, Android Studio, AWS
 - データベース：MySQL
 
 ## Qualifications
@@ -24,6 +24,23 @@ Kumamoto Seita
 
 ## Career to aim for
 将来は、Webアプリケーションの設計から開発、運用までをリードできるフルスタックエンジニアを目指しています。
+
+## Main tools created
+1. Gmail予約自動取得・スプレッドシート連携システム
+Technologies: Google Apps Script (GAS)
+Code: Private
+Overview:
+複数サイト（アソビュー、じゃらん等）の予約メールの内容を自動解析し、Googleスプレッドシートへ自動転記するシステムを開発。手作業での転記工数を削減し、予約管理の効率化に貢献。
+
+2. Excel検索ツール
+Technologies: Google Apps Script (GAS)
+Code:　[GitHub Repository](https://github.com/9mada4/SheetScan-web-app)
+Overview:
+Excelを読み込んで文字列検索できるツールを作成
+3. Androidモバイルアプリ（個人開発）
+Technologies: Android Studio, Java
+Code: Private (レポジトリ未作成)
+Overview: 壁反射ゲームや株価取得などの簡易アプリを作成
 
 ## Contact
 - メールアドレス：[8125508@ed.tus.ac.jp](mailto:8125508@ed.tus.ac.jp)
