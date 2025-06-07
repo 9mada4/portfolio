@@ -16,7 +16,7 @@ Kumamoto Seita
 ## Skill-set
 - 言語：Python, C/C+, Java, HTML/CSS, JavaScript
 - フレームワーク・ライブラリ：scikit-learn, XGBoost, LightGBM, MeCab, Keras, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn
-- その他ツール：Git, Google Colab, Google Apps Script, Android Studio, AWS
+- その他ツール：Git, Google Colab, Google Apps Script, Android Studio, AWS, SwitchBot API, Yahoo! API
 - データベース：MySQL
 
 ## Qualifications
