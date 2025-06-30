@@ -36,7 +36,7 @@ Technologies: Python, Shell<br>
 Code:　[GitHub Repository:9mada4/VoiceChatBot](https://github.com/9mada4/VoiceChatBot)<br>
 Overview:<br>
 キーボード・マウス不要で、音声コマンドのみでChatGPTとの対話から画面操作まで全自動化。macOSのみ。
-3. PhotoToGif<br>
+3. PhotoToGif(demo)<br>
 Technologies: TypeScript, CSS, HTML, JavaScript<br>
 Code:　[GitHub Repository:9mada4/PhotoToGif](https://github.com/9mada4/PhotoToGif)<br>
 Overview:<br>
